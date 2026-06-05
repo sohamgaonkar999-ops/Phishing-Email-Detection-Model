@@ -57,7 +57,7 @@ Phishing-Email-Detection-Model/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/surajrai1390p-hue/Phishing-Email-Detection-Model.git
+git clone https://github.com/sohamgaonkar999-ops/Phishing-Email-Detection-Model.git
 ```
 
 ---
@@ -250,8 +250,8 @@ This project is for educational and research purposes.
 
 # 👨‍💻 Author
 
-Suraj Rai
+SOHAM GAONKAR
 
 GitHub Repository:
 
-https://github.com/surajrai1390p-hue/Phishing-Email-Detection-Model
+https://github.com/sohamgaonkar999-ops/Phishing-Email-Detection-Model
